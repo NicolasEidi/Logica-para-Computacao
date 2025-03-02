@@ -8,7 +8,7 @@ Nestes exercícios o objetivo é programar agentes utilizando JaCaMo (Multi-Agen
 <br><br>
 Com o JaCaMo foram programados agentes de veiculo autonomo.
 <br><br>
-E com Prolog utilizamos a arvore genealógica dos McFly's do filme "De Volta para o Futuro"
+E com Prolog utilizamos a árvore genealógica dos McFly's do filme "De Volta para o Futuro"
 <div align="center">
 <img src="https://github.com/user-attachments/assets/852ea30a-a519-4dd6-a205-34647bc21e69" width="700px" />
 </div>
