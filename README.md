@@ -4,9 +4,9 @@
 
 Alguns códigos criados durantre a disciplina de Lógica para Computação
 <br>
-Nestes exercícios o objetivo é programar agentes utilizanda JaCaMo (Multi-Agent Oriented Programming (MAOP)) e  Prolog. 
+Nestes exercícios o objetivo é programar agentes utilizando JaCaMo (Multi-Agent Oriented Programming (MAOP)) e Prolog. 
 <br><br>
-Com o JaCaMo foi programado agentes de veiculo autonomo.
+Com o JaCaMo foram programados agentes de veiculo autonomo.
 <br><br>
 e com Prolog utilizamos a arvore genealógica dos McFly's do filme "De Volta para o Futuro"
 <div align="center">
